@@ -3,7 +3,7 @@
 this project is example when App Launch load Ad to show user
 */
 
-Altogether it'll take two steps
+Altogether it'll take three steps
 
 step 1:
 
@@ -15,4 +15,4 @@ AppDelegate import  "LaunchAdManager.h"
 
 step 3:
 
-didFinishLaunchingWithOptions add "[[LaunchAdManager shareManager] showAdWithTimeInterval:2.0 imageUrl:@"loadAdImageUrl"];"
+didFinishLaunchingWithOptions add "[[LaunchAdManager shareManager] showAdWithTimeInterval:showTime imageUrl:@"loadAdImageUrl"];"
