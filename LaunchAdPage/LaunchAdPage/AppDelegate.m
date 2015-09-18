@@ -20,7 +20,7 @@
     // Override point for customization after application launch.
     
     [[LaunchAdManager shareManager] showAdWithTimeInterval:2.0
-                                                  imageUrl:@"http://www.lcdushi.com/uploads/allimg/150912/20260451a-0.jpg"];
+                                                  imageUrl:@"http://img4.duitang.com/uploads/item/201407/27/20140727020701_vwujt.jpeg"];
     
     return YES;
 }
